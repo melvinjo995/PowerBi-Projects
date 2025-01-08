@@ -61,13 +61,13 @@ The project follows a structured approach, covering data preparation, data model
 ![Executive Dashboard](Resources/Executive_Dashboard.png)
 
 ### Regional Dashboard View
-![Regional Dashboard](Resources/Regional_dashboard.png)
+![Regional Dashboard](Resources/Regional_Dashboard.png)
 
 ### Product Dashboard View
-![Project Dashboard](Resources/Product_dashboard.png)
+![Project Dashboard](Resources/Product_Dashboard.png)
 
 ### Customer Dashboard View
-![Customer Dashboard](Resources/Customer_dashboard.png)
+![Customer Dashboard](Resources/Customer_Dashboard.png)
 
 ---
 
