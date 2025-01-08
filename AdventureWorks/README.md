@@ -55,6 +55,22 @@ The project follows a structured approach, covering data preparation, data model
 
 ---
 
+## Dashboard Screenshots
+
+### Executive Dashboard View
+![Executive Dashboard Overview](resources/Executive.png)
+
+### Regional Performance
+![Regional Performance](images/regional_performance.png)
+
+### Regional Performance
+![Regional Performance](images/regional_performance.png)
+
+### Regional Performance
+![Regional Performance](images/regional_performance.png)
+
+---
+
 ## How to Use  
 1. **Clone the Repository**:  
    ```bash
