@@ -58,16 +58,16 @@ The project follows a structured approach, covering data preparation, data model
 ## Dashboard Screenshots
 
 ### Executive Dashboard View
-![Executive Dashboard Overview](resources/Executive.png)
+![Executive Dashboard](Resources/Executive_Dashboard.png)
 
-### Regional Performance
-![Regional Performance](images/regional_performance.png)
+### Regional Dashboard View
+![Regional Dashboard](Resources/Regional_dashboard.png)
 
-### Regional Performance
-![Regional Performance](images/regional_performance.png)
+### Product Dashboard View
+![Project Dashboard](Resources/Product_dashboard.png)
 
-### Regional Performance
-![Regional Performance](images/regional_performance.png)
+### Customer Dashboard View
+![Customer Dashboard](Resources/Customer_dashboard.png)
 
 ---
 
